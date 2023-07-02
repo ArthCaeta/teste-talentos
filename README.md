@@ -43,6 +43,16 @@ MY_SQL_DB_DATABASE='Seu banco de dados'
 MY_SQL_DB_CONNECTION_LIMIT=4
 ```
 
+## Para rodar o projeto
+
+Depois de tudo configurado, rode o comando:
+
+`npm run dev`
+
+o console deve responder com
+
+`Server is running on http://localhost:3333`
+
 ## Aprendizados
 
 Obtive um grande aprendizado realizando esse projeto, por precisar de todas as ferramentas que a internet nos proporciona, me fez realizar atividades que eu não tinha tanta experiência. Isso tornou possível que eu superasse os obstáculos que surgiram.
